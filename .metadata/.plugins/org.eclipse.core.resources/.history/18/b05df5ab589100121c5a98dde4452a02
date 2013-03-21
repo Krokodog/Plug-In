@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Htmlconverter
+Bundle-SymbolicName: de.lui.plugin.htmlconverter
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.eclipse.jdt.core;bundle-version="3.8.3",
+ org.eclipse.core.commands;bundle-version="3.6.1",
+ org.eclipse.core.resources;bundle-version="3.8.1",
+ org.eclipse.core.runtime;bundle-version="3.8.0",
+ org.eclipse.core.expressions;bundle-version="3.4.401"
+Bundle-Vendor: lui
+Import-Package: org.eclipse.jface.dialogs

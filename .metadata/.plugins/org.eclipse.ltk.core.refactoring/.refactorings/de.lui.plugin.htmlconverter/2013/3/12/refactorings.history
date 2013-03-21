@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;plugin.xml&apos; to &apos;build.properties&apos;&#x0D;&#x0A;- Original project: &apos;de.lui.plugin.htmlconverter&apos;&#x0D;&#x0A;- Destination element: &apos;build.properties&apos;&#x0D;&#x0A;- Original element: &apos;plugin.xml&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" element1="META-INF/plugin.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1363780986140" target="/de.phoenix.plugin.first/build.properties" units="0" version="1.0"/>
+</session>

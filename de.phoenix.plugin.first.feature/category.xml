@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.phoenix.plugin.first.feature_1.0.0.qualifier.jar" id="de.phoenix.plugin.first.feature" version="1.0.0.qualifier">
+      <category name="grimaldi"/>
+   </feature>
+   <category-def name="grimaldi" label="TestCategory"/>
+</site>
